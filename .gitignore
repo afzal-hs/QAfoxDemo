@@ -27,5 +27,6 @@ replay_pid*
 
 target/
 .settings/
+test-output/
 
 .classpath
